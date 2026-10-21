@@ -71,4 +71,8 @@ Jasa Titip ITS dikembangkan untuk menggantikan pencatatan pesanan secara manual 
 Beberapa pengembangan yang dapat dipertimbangkan meliputi integrasi WhatsApp API, dukungan banyak item dalam satu pesanan, autentikasi pengguna, pencadangan otomatis, penggunaan database, serta ekspor laporan ke PDF atau Excel.
 
 ## Link Video Demo:
-`https://youtu.be/FAM2YQOpj30`
+`https://youtu.be/UnQnFh_GLro`
+
+## Infografis
+
+<img width="1587" height="2245" alt="Infografis Jasa Titip ITS" src="https://github.com/user-attachments/assets/0c95f31b-9c95-4cfa-9504-b1c60c4625ae" />
